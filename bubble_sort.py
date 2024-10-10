@@ -1,6 +1,6 @@
 class BubbleSort:
 
-	# Time Complexity: O(n2)
+	# Time Complexity: O(n ^ 2)
 	# Auxiliary Space: O(1)
 	def bubble_sort(self, array):
 		arr_length = len(array)
