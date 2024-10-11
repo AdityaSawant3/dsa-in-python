@@ -1,3 +1,5 @@
+# Time Complexity: O(n log n)
+# Space Complexity: O(n)
 class MergeSort:
 
 	def merge_sort(self, array):
