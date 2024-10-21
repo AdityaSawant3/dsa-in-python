@@ -51,6 +51,7 @@ queue.enqueue(62)
 queue.enqueue(23)
 queue.enqueue(64)
 queue.enqueue(54)
+queue.enqueue(34)
 queue.print_queue()
 print(f"Peek element at queue is {queue.peek()}")
 
